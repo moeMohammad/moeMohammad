@@ -4,7 +4,7 @@
   <p>CS graduate who enjoys full-stack development, ML, and building whatever comes to mind.</p>
 
   <!-- Social / Links -->
-  <a href="https://www.linkedin.com/in/mohammad-mohammad-526a38250/">
+  <a href="https://www.linkedin.com/in/mohammad-m-mohammad">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Mohammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
